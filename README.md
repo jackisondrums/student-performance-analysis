@@ -8,7 +8,7 @@ The goal was to identify which variables have the strongest impact on exam score
 ---
 
 ## Dashboard  
-![Dashboard](C:\Users\Jack\OneDrive\Documents\Github folders\student-performance-excel-analysis\Screenshots\dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
